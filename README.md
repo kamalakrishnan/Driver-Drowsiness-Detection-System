@@ -1,2 +1,6 @@
-# Driver-Drowsiness-Detection-System
-Executed the YOLOv8 model for driver drowsiness detection using a custom annotated dataset, integrated it into a real-time video processing pipeline for immediate drowsiness detection.
+[Final_Report.pdf](https://github.com/sakshamsds/driver-drowsiness-detection/files/11641884/Final_Report.pdf)
+
+Directory Structure:
+ 1. 'initial_implementation' directory contains our code and results from our initial approach using the kaggle dataset.
+ 2. 'revised_implementation' directory contains our code and results from the YOLO approach using the custom dataset that we created.
+ 3. Check the README.MD files in the respective directories for execution steps.
