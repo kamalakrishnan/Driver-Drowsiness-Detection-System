@@ -1,4 +1,3 @@
-[Final_Report.pdf](https://github.com/sakshamsds/driver-drowsiness-detection/files/11641884/Final_Report.pdf)
 
 Directory Structure:
  1. 'initial_implementation' directory contains our code and results from our initial approach using the kaggle dataset.
